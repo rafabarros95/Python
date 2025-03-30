@@ -1,0 +1,19 @@
+---------------------------------------------------------------
+Problem: Pet Management System
+---------------------------------------------------------------
+
+
+-------------------Requirements-------------------------------- 
+Define a Pet class with attributes: name, species, and age.
+
+Add a method display_info() to print pet details.
+
+Add a method have_birthday() that increases the pet’s age by 1.
+
+In your main() function:
+
+Create at least two pets.
+
+Call display_info() for each.
+
+Call have_birthday() on one of them and show the updated info.
