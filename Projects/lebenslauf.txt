@@ -1,0 +1,28 @@
+
+    Personal Information:
+        Name: Thiago anton
+        Address: 345 main street
+        Phone: 38457363
+        Email: thiago@gmx.de
+        Date of Birth: 03/07/2020
+        City of Birth: Sao paulo
+
+    Education:
+        Bachalor of business analist
+        Master of international business
+
+    Experience:
+        2 years at google
+        4 years at microsoft
+
+    Skills:
+        Fast learner
+        Comunicative
+        Punctual
+
+    Languages:
+        Portuguese
+        Spanish
+        Greek
+        French
+    
