@@ -1,6 +1,6 @@
 import pytest
 import sys
-from Numbers.Even_Odd import even_odd
+from Numbers.even_odd import even_odd
 
     
 def test_even_odd():

@@ -1,0 +1,26 @@
+
+    Personal Information:
+        Name: Pedro 
+        Email: Prd@gmx.de
+        Phone: 39357363
+        Address: 348 o'connels street
+        Home Town: Chicago
+
+    Education:
+    Bachelor of computer science 
+      Master in digital science
+
+    Skills:
+    Self-learning
+      Team work
+      Comprehensive
+      Windown os 
+      Linux
+      Mac os
+
+    Languages:
+    German
+      Portuguese
+      Spanish
+      Greek
+      Finn

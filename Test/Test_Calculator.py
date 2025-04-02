@@ -1,7 +1,7 @@
 import pytest
 import Numbers
 
-from Numbers.Calculator import square
+from Numbers.calculator import square
 
 def main():
     test_positiv()
